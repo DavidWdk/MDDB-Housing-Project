@@ -1,4 +1,4 @@
-longitude,latitude,housing_median_age,total_rooms,total_bedrooms,population,households,median_income,median_house_value,ocean_proximity,<1H OCEAN,INLAND,NEAR OCEAN,NEAR BAY,ISLAND
+longitude,latitude,housing_median_age,total_rooms,total_bedrooms,population,households,median_income,median_house_value,ocean_proximity,hour_ocean,inland,n_ocean,n_bay,island
 -117.42,33.35,14,25135,4819,35682,4769,25729,134400,<1H OCEAN,1,0,0,0,0
 -121.79,36.64,11,32627,6445,28566,6082,23087,118800,<1H OCEAN,1,0,0,0,0
 -121.44,38.43,3,39320,6210,16305,5358,49516,153700,INLAND,0,1,0,0,0
